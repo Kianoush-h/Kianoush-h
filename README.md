@@ -48,18 +48,6 @@
 
 <br clear="both">
 
-<p align="left"></p>
-
-###
-
-<br clear="both">
-
-<p align="left"></p>
-
-###
-
-<br clear="both">
-
 <h2 align="left">You can find me here 🤙</h2>
 
 ###
@@ -75,18 +63,6 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=haratiank2@gmail.com&logo=gmail&label=&color=611a15&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<p align="left"></p>
-
-###
-
-<br clear="both">
-
-<p align="left"></p>
 
 ###
 
