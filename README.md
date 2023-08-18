@@ -65,9 +65,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Kianoush-h/Kianoush-h/output/snake.svg" alt="Snake animation" />
-
-###
