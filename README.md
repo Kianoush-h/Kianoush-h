@@ -92,13 +92,14 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original-wordmark.svg" height="30" alt="bitbucket logo" />
         <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain-wordmark.svg" height="30" alt="gitlab logo" />
+        <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" height="30" alt="jira logo" />
         <br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" height="30" alt="matlab logo" />
          <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" height="30" alt="powershell logo" />
         <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" height="30" alt="slack logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg" height="30" alt="ssh logo" />
       </td>
     </tr>
     <tr>
