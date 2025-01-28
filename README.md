@@ -42,7 +42,7 @@
         <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" />
         <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-line-wordmark.svg" height="30" alt="pandas logo" />
+        <i class="devicon-pandas-plain-wordmark"></i>
       </td>
     </tr>
     <tr>
