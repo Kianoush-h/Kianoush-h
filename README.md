@@ -4,8 +4,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2p0bm14eWVkeDl4YmdxMWFubjVydWpyY3R6ZjRnMGY5dmxqaWh3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpF9R9M1PHN5e5liSx/giphy.gif" 
-style="border-radius: 15px;" />
+<img align="right" height="150" border-radius="15px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2p0bm14eWVkeDl4YmdxMWFubjVydWpyY3R6ZjRnMGY5dmxqaWh3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpF9R9M1PHN5e5liSx/giphy.gif" />
 ###
 
 <p align="center">I am a Data scientist | AI/ML Developer | Backend Developer.<br><br>Here you can find a few of my public projects ...<br><br> there are hidden projects too :)</p>
