@@ -34,6 +34,8 @@
       <td><strong>Databases</strong></td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="30" alt="azure sql logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo" />
       </td>
     </tr>
     <tr>
