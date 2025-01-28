@@ -39,6 +39,10 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="30" alt="django logo" />
         <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" height="30" alt="flask logo" />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" />
+        <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height="30" alt="pandas logo" />
       </td>
     </tr>
     <tr>
