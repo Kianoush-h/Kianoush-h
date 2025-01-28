@@ -53,7 +53,7 @@
         <br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height="30" alt="pandas logo" />
          <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" height="30" alt="plotly logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" height="30" alt="plotly logo" />
          <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo" />
         <img width="12" />
@@ -86,10 +86,12 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original-wordmark.svg" height="30" alt="bitbucket logo" />
         <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain-wordmark.svg" height="30" alt="gitlab logo" />
-        <img width="12" />
+        <br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" height="30" alt="jira logo" />
         <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" height="30" alt="matlab logo" />
+         <img width="12" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" height="30" alt="powershell logo" />
       </td>
     </tr>
     <tr>
