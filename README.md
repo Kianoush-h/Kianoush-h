@@ -4,14 +4,7 @@
 
 <br clear="both">
 
-<div style="position: relative;">
-  <img 
-    align="right" 
-    height="150" 
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2p0bm14eWVkeDl4YmdxMWFubjVydWpyY3R6ZjRnMGY5dmxqaWh3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpF9R9M1PHN5e5liSx/giphy.gif" 
-    style="border-radius: 15px; overflow: hidden; display: block;"
-  />
-</div>
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2p0bm14eWVkeDl4YmdxMWFubjVydWpyY3R6ZjRnMGY5dmxqaWh3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpF9R9M1PHN5e5liSx/giphy.gif"  />
 
 
 
