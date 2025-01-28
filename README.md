@@ -1,4 +1,5 @@
 <h1 align="left">Hi 👋! My name is Kianoush</h1>
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 ###
 
