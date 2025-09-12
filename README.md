@@ -1,4 +1,9 @@
 # Hi there! 👋 I'm Kianoush
+<p align="center">
+		<img alt="Kianoush' Welcome Message"
+			 src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there!+I'm+Kianoush">
+  <br />
+</p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2p0bm14eWVkeDl4YmdxMWFubjVydWpyY3R6ZjRnMGY5dmxqaWh3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpF9R9M1PHN5e5liSx/giphy.gif" width="200" />
