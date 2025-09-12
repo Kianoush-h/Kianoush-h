@@ -9,22 +9,6 @@
   <p><em>Passionate about turning data into insights and building intelligent solutions</em></p>
 </div>
 
----
-
-## 🎯 About Me
-
-```python
-class Kianoush:
-    def __init__(self):
-        self.role = "Data Scientist & AI/ML Developer"
-        self.location = "🌍 Available globally"
-        self.interests = ["Machine Learning", "Data Science", "Backend Development", "AI Research"]
-        self.currently_learning = ["Advanced Deep Learning", "MLOps", "Cloud Architecture"]
-        self.fun_fact = "I love exploring hidden patterns in data! 📊"
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's connect and build something amazing together!")
-```
 
 ---
 
@@ -103,11 +87,8 @@ class Kianoush:
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kianoush-h&theme=github-dark&hide_border=true&card_width=500" alt="GitHub Streak" /></a>
 
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kianoush&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
 
 <div align="center">
-  <h4>⭐ Don't forget to star repositories you find interesting!</h4>
+  
   <p><em>"The best way to predict the future is to create it with data."</em></p>
 </div>
