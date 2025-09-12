@@ -1,9 +1,8 @@
 
-<p align="center">
-		<img alt="Kianoush' Welcome Message"
+<div align="center">
 			 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7000&pause=10000&center=true&width=435&lines=Hi+there!+I'm+Kianoush" alt="Typing SVG" /></a>
   <br />
-</p>
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2p0bm14eWVkeDl4YmdxMWFubjVydWpyY3R6ZjRnMGY5dmxqaWh3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpF9R9M1PHN5e5liSx/giphy.gif" width="200" />
