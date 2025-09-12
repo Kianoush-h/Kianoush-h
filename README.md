@@ -100,6 +100,9 @@ class Kianoush:
 
 ---
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kianoush-h&theme=github-dark&hide_border=true&card_width=500" alt="GitHub Streak" /></a>
+
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kianoush&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
