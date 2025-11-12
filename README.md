@@ -25,7 +25,12 @@
 
 ### 🔬 AI/ML & Data Science
 <p align="center">
+	<table>
+<tr>
+<td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
+	</td>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" height="48" alt="keras" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="48" alt="scikit-learn" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height="48" alt="pandas" />
