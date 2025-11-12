@@ -89,7 +89,6 @@
 ---
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kianoush-h&theme=github-dark&hide_border=true&mode=weekly&card_width=500" alt="GitHub Streak" /></a>
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kianoush-h&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" /></div>
 
 <div align="center">
