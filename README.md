@@ -88,10 +88,9 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kianoush-h&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" /></div>
-
-<div align="center">
+<div align="center"> -->
   
   <p><em>"The best way to predict the future is to create it with data."</em></p>
 </div>
