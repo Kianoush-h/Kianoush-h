@@ -76,15 +76,7 @@
   </a>
 </div>
 
----
 
-## 💡 Fun Facts
-
-- 🔍 I love discovering hidden patterns in data that others might miss
-- 🤖 Currently exploring the intersection of AI and sustainable technology
-- 📚 Always learning something new - currently diving deep into MLOps
-- 🎯 Open to collaborating on exciting AI/ML projects
-- 🌟 Believe in the power of data-driven decision making
 
 ---
 
